@@ -1,12 +1,14 @@
-# Project 3 IMDB recomendation
- Use public IMDB data to make a movie recomendation tool
+# IMDB recomendation
+## Business Problem
+For this project, you have been hired to produce a MySQL database on Movies from a subset of IMDB's publicly available dataset. Ultimately, you will use this database to analyze what makes a movie successful and will provide recommendations to the stakeholder on how to make a successful movie.
+ 
+## Resources 
+Use public IMDB/TMDB data to make a movie recomendation tool
 
 
-# Citations
+### Citations
 
 [THe Movie Data Base](https://www.themoviedb.org)
 
-"This product uses the TMDB API but is not endorsed or certified by TMDB." 
- 
 [Internet Movie Database](https://www.imdb.com/conditions)
 
