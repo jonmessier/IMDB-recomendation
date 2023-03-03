@@ -29,7 +29,7 @@ The stakeholder only wants to include information for movies based on the follow
  - 1810
 - [x] 2. How many movies are there in each of the certification categories (G/PG/PG-13/R)?
   
-  ![png](Data/movie count.png)
+  ![png](Data/movie_count.png)
 
 - [x] 3. What is the average revenue per certification category?
  
