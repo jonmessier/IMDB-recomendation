@@ -26,7 +26,10 @@ The stakeholder only wants to include information for movies based on the follow
 
 # Exploratory Data Analysis
 - [x] 1. How many movies had at least some valid financial information (values > 0 for budget OR revenue)?
- - 1810
+ - 5534
+ - [x] How many movies had complete financial information (values > 0 for budget AND revenue)?
+  - 1810
+  - **Exploratory Data Analysis performed on data with complete financials**
 - [x] 2. How many movies are there in each of the certification categories (G/PG/PG-13/R)?
   
   ![png](Data/movie_count.png)
