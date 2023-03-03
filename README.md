@@ -33,12 +33,12 @@ The stakeholder only wants to include information for movies based on the follow
 
 - [x] 3. What is the average revenue per certification category?
  
- ![png]('Data/mean_revenue.png')
+  ![png]('Data/mean_revenue.png')
  
 - [x] 4. What is the average budget per certification category?
 
- ![png]('Data/mean_budget.png')
+  ![png]('Data/mean_budget.png')
 
 - [x] What is the average ROI (Revenue - budget)?
  
- ![png]('Data/mean_roi.png')
+  ![png]('Data/mean_roi.png')
