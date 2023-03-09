@@ -45,3 +45,6 @@ The stakeholder only wants to include information for movies based on the follow
 - [x] What is the average ROI (Revenue - budget)?
  
   ![png](Data/mean_roi.png)
+
+# Creating MySQL Tables
+![png](Data/movies_ERD.png)
